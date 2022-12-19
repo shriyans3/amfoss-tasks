@@ -1,0 +1,88 @@
+body {
+  text-align: center;
+  background-color: sienna;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 6rem;
+  color: lightseagreen;
+  text-shadow: teal;
+  font-style: oblique;
+
+}
+
+button{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.w {
+  background-image: url('images/tom1.jpeg');
+  box-shadow: 10px -16px cadetblue;
+
+}
+
+.a {
+  background-image: url('images/tom2.jpeg');
+  box-shadow: 10px -16px cadetblue;
+}
+
+.s {
+  background-image: url('images/tom3.jpeg');
+  box-shadow: 10px -16px cadetblue;
+}
+
+.d {
+  background-image: url('images/tom4.jpeg');
+  box-shadow: 10px -16px cadetblue;
+}
+
+.j {
+  background-image: url('images/snare.jpeg');
+  box-shadow: 10px -16px cadetblue;
+}
+
+.k {
+  background-image: url('images/kick.jpeg');
+  box-shadow: 10px -16px cadetblue;
+}
+
+.l {
+  background-image: url('images/crash.jpeg');
+  box-shadow: 10px -16px cadetblue;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: bold;
+  color: lightslategray;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
