@@ -1,5 +1,5 @@
-# amfoss-tasks
-## All the amFOSS tasks done by P.Shriyans
+# Amfoss-tasks
+## All the amFOSS tasks are done by P.Shriyans
 *I am P.Shriyans from Vizag,Andhra Pradesh. Studying S3 at Amrita school of Engineering(CSE 2021)*
 *Tasks list|**Description|**Status*
 --------------|---------------|--------------
