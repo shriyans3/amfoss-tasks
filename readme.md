@@ -10,7 +10,7 @@
 [Task-4](https://github.com/shriyans3/amfoss-tasks/tree/master/task4)|Cine_Bot|Coompleted
 [Task-5]()|Find_the_Bug|Not Completed
 [Task-6](https://github.com/shriyans3/amfoss-tasks/tree/master/task6)|Flame Game|Completed
-[Task-7]|Go Wasm|Not Completed
+[Task-7]()|Go Wasm|Not Completed
 [Task-8](https://github.com/shriyans3/amfoss-tasks/tree/master/task8)|Internet Explorer|Completed
 [Task-9](https://github.com/shriyans3/amfoss-tasks/tree/master/task9)|Krypto Scraper|Completed
 [Task-10](https://github.com/shriyans3/amfoss-tasks/tree/master/task10)|CS50|
