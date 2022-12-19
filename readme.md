@@ -1,7 +1,7 @@
 # Amfoss-tasks
 ## All the amFOSS tasks are done by P.Shriyans
 *I am P.Shriyans from Vizag,Andhra Pradesh. Studying S3 at Amrita school of Engineering(CSE 2021)*
-* Tasks-list|Description|Status*
+*Tasks-list|Description|Status*
 --------------|---------------|--------------
 [Task-0](https://github.com/shriyans3/amfoss-tasks/tree/master/task0)|Install Ubuntu 20.04 [Desktop]|Completed
 [Task-1](https://github.com/shriyans3/amfoss-tasks/tree/master/task1)|Star all the amFOSS repositories|Completed
