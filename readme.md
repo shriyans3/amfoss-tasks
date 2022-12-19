@@ -15,4 +15,7 @@
 [Task-9](https://github.com/shriyans3/amfoss-tasks/tree/master/task9)|Krypto Scraper|Completed
 [Task-10](https://github.com/shriyans3/amfoss-tasks/tree/master/task10)|CS50|
 ## My views about the tasks
-## My Introduction
+After trying to attempt almost every task and completing 10 tasks what I have learnt the most is self-learning and scaling up myself by learning through docs and tutorials .It's not only about learning but also applying it which I have done through the given tasks. My mentality changed through time.
+## My Introduction
+✌️ Hey there I'm Shriyans from vizag,Andhra Pradesh .I'm always busy trying to learn something new. My love for the software field is true and also an Anime fan.
+Love to do Competitve Coding trying to get my grip into it .But at the same time I also dont want to neglect other parts of the field life web,android dev ,AI and machine learninig . 
